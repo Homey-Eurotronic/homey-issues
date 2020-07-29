@@ -1,2 +1,2 @@
-# homey-issues
-Have issues with the Homey app, send them here.
+# Homey App Issues
+If you have any issues with the Homey app, put them in the issues tab.
