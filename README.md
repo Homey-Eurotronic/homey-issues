@@ -23,7 +23,7 @@ Your Issue Description:
   - Set target temperature (°C)
   - Read/Set modes (Off, Comfortable, Economic, Manual)
   - Set economy target temperature (Setting/flow) (°C)
-+ Set manual valve position (flow only)
++ Set manual valve position
 
 ### Device Functions Spirit (/Aeotec Boxed):
 + Read/Set target temperature (°C)
@@ -31,7 +31,7 @@ Your Issue Description:
 + Read/Set modes (Off, Comfortable, Economic, Boost, Manual)
 + Set economy target temperature (setting/flow) (°C)
 + Read/Set (child) protection
-+ Set manual valve position (flow only)
++ Set manual valve position
 + Error occurred (flow only)
 
 ### Device Functions Air Quality Sensor:
